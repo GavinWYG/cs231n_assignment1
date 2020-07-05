@@ -1,1 +1,5 @@
-Details about this assignment can be found [on the course webpage](http://cs231n.github.io/), under Assignment #1 of Winter 2016.
+Q1: k-Nearest Neighbor classifier (20 points)
+Q2: Training a Support Vector Machine (25 points)
+Q3: Implement a Softmax classifier (20 points)
+Q4: Two-Layer Neural Network (25 points)
+Q5: Higher Level Representations: Image Features (10 points)
